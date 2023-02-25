@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/0xMemoryGrinder/whanos-js/issues"
   },
-  "homepage": "https://github.com/0xMemoryGrinder/whanos-js#readme"
+  "homepage": "https://github.com/0xMemoryGrinder/whanos-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
