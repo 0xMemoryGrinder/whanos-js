@@ -5,4 +5,4 @@
 deployment:
   replicas: 1
   resources: {}
-  ports: []
+  ports: [3000]
